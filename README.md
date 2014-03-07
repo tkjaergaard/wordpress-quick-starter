@@ -12,7 +12,7 @@ clone this repository
 Move the wp.sh file to you `/bin/` or `/usr/local/bin` directory and make it executable:
 	
 	sudo mv wp.sh /bin/wp
-	sudo chmod -x /bin/wp
+	sudo chmod +x /bin/wp
 
 ## Usage
 
