@@ -25,11 +25,15 @@ Change directory to where you wanna install Wordpress and run the wp command.
 
 ## Boilerplate
 
-The script clones my [wordpress-starter-template](https://github.com/tkjaergaard/wordpress-starter-template) into the themes directory for you to get started.
+The script clones my [wordpress-starter-template](https://github.com/tkjaergaard/wordpress-starter-template) into the themes directory to you to get started.
+
+## Clean up
+
+The script cleans up the default Wordpress installation. It removes all starter themes and plugins and the readme.html file.
 
 ## Notice
 
-The command is adjusted for my current setup at my OSX machine, and you might wanne change some things in the script if you intend to use it. But it might be a good boilerplate to automate you wordpress installation workflow.
+The command is adjusted for my current setup at my OSX machine, and you might wanna change some things in the script if you intend to use it yourself. But it might be a good boilerplate to automate your wordpress installation workflow.
 
 ## Author
 Thomas Kjaergaard   
