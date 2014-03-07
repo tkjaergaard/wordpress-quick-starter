@@ -29,7 +29,7 @@ The script clones my [wordpress-starter-template](https://github.com/tkjaergaard
 
 ## Notice
 
-The command is setup for my current setup at my OSX machine, and you might wanne change some things in the script if you intend to use it. But it might be a good boilerplate to automate you wordpress installation workflow.
+The command is adjusted for my current setup at my OSX machine, and you might wanne change some things in the script if you intend to use it. But it might be a good boilerplate to automate you wordpress installation workflow.
 
 ## Author
 Thomas Kjaergaard   
