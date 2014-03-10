@@ -7,21 +7,16 @@ if [ -z "$IP" ]; then
     IP="localhost"
 fi
 
-mkdir wordpress && cd $_
-
 wget http://wordpress.org/latest.zip
 
 unzip latest.zip
 
-mv wordpress/* .
-
-rm -fr wordpress/
 rm -fr latest.zip
-rm -fr readme.html
+rm -fr wordpress/readme.html
 
-rm -fr wp-content/plugins/akismet wp-content/plugins/hello.php
+rm -fr wordpress/wp-content/plugins/akismet wp-content/plugins/hello.php
 
-cd wp-content/themes
+cd wordpress/wp-content/themes
 
 rm -fr twenty*/
 
