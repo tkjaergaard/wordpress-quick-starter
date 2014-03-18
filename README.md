@@ -29,7 +29,7 @@ The script clones my [wordpress-starter-template](https://github.com/tkjaergaard
 
 ## Clean up
 
-The script cleans up the default Wordpress installation. It removes all starter themes and plugins and the readme.html file.
+The script cleans up the default Wordpress installation. It removes all default themes and plugins and the readme.html file.
 
 ## Notice
 
